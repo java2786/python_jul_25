@@ -1,0 +1,10 @@
+Python run -> machine
+1. Create and save file with .py extension
+2. Cmd and move to same folder
+				path C:/users/Document/tutorial/ 
+				-> select remove type cmd
+3. list all the available files and folder in current location/folder
+				cmd => dir -> list
+				gitbash/linux/mac => ls
+4. Run using python or python3
+				python3 filename.py
