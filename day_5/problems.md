@@ -1,0 +1,11 @@
+# Variables, Data Types, and Input/Output
+- Write a Python program to take your name and age as input and print them.
+- Input a number and print whether it's even or odd (no if/else, just logic with %).
+- Take two numbers as input and print their sum, difference, product, and quotient.
+- Convert temperature from Celsius to Fahrenheit.
+- Calculate the area of a rectangle given length and breadth.
+- Calculate the area and circumference of a circle (take radius as input).
+- Input two numbers and print which one is greater using only comparison operators.
+- Input marks of 3 subjects and print sum, percentage.
+- Print the square and cube of a number input by the user.
+- Input an amount in INR and convert it to USD (assume fixed conversion rate).

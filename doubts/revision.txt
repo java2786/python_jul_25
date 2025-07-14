@@ -1,0 +1,34 @@
+Variables = container
+let a = 44;
+int a = 44;
+a = 44 => data will datatype
+
+Display
+print("Hello User")
+
+name = "Ramesh"
+print("Welcome",name) => Welcome Ramesh
+print("Welcome",name, sep=": ") => Welcome: Ramesh
+
+name="Mahesh"
+age = 44
+address = "Pune"
+
+print("Your name is",name,", and you are",age,"years old and you live in",address,".")
+=> Your name is Mahesh , and you are 44 years old and you live in Pune .
+
+print("Your name is ",name,", and you are ",age," years old and you live in ",address,".", sep="")
+=> Your name is Mahesh, and you are 44 years old and you live in Pune.
+
+print(f"Your name is {name}, and you are {age} years old and you live in {address}.
+")
+
+User input
+=> input => string -> convert
+int("32") -> 32
+
+Conditions
+if condition:
+    print("condition is satisfied")
+else:
+    print("condition failed")

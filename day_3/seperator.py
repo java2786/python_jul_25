@@ -4,7 +4,6 @@ print("Apple", "Banana", "Orange", sep=" ")
 print("Apple", "Banana", "Orange")
 
 
-name="Anjali"
 
 name="Anjali"
 print("My name is",name,"demo", sep=".")
