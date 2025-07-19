@@ -1,0 +1,26 @@
+
+Enter your height: x
+Enter your weight: y
+
+bmi = w_kg / (h_m * h_m)
+
+Your BMI is X 
+Category: Underweight
+
+
+BMI Category	BMI Range
+------------------------------
+Underweight			Below 18.5
+Healthy Overweight	18.5 to 24.9
+Overweight			25.0 to 29.9
+Obesity				30.0 or greater
+
+
+
+
+Rough work:
+bmi = w_kg / (h_m * h_m)
+bmi = 19
+
+if(bmi > 18.5 and bmi < 25):
+    print("Normal")

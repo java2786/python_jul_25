@@ -1,0 +1,7 @@
+Electricity Bill Calculation
+    For the first 100 units: 1.5 per unit
+    For the next 100 units: 2.5 per unit
+    Beyond 200 units: 3.5 per unit
+Example:
+    Input: Units = 250
+    Output: Bill = 575

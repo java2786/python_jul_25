@@ -8,3 +8,5 @@ x = int(a) # 3
 y = int(b) # 1
 z = int(c) # 5
 
+if(a>b and a>b):
+    print(a)

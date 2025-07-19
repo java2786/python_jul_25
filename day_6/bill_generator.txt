@@ -1,0 +1,24 @@
+******** My Restaurant ******** 
+1. Dosa 	- Rs.70/-
+2. Idli 	- Rs.20/-
+3. Tea 		- Rs.10/-
+4. Maggie 	- Rs.50/-
+
+Prepare your order:
+Enter Dosa quantity: 	2
+Enter Idli quantity: 	2
+Enter Tea quantity: 	0
+Enter Maggie quantity: 	0
+
+Bill generated
+----------------------------
+Dosa 	=> Rs.70/- * 2 = 140
+Idli 	=> Rs.20/- * 2 = 40
+Tea 	=> Rs.10/- * 0 = 0
+Maggie 	=> Rs.50/- * 0 = 0
+----------------------------
+Total bill: 			Rs.180/-
+----------------------------
+
+********** Thank You ********** 
+
