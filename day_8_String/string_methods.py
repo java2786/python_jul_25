@@ -34,4 +34,10 @@ print("Welcome", username.strip())
 
 # Home work - Input email and verify if it is valid email address
 # simple
-arunkumar@gmail.com 
+# arunkumar@gmail.com 
+
+
+# convert text into uppercase/lowercase/capitalize, part string
+
+# I like python and python likes me.
+# python -> find
