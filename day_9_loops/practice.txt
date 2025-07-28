@@ -1,0 +1,9 @@
+number -> 4362
+- show sum of all the digits
+- count evens and odds in the number (even: 3, odd: 1)
+- reverse the number -> 2634
+- print all palindrome numbers from 1 to 1000
+    - nitin, madam, mam, racecar
+    - 121, 111, 34243
+    
+- given number is prime or not
