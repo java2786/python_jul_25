@@ -1,6 +1,9 @@
 number -> 4362
 - show sum of all the digits
 - count evens and odds in the number (even: 3, odd: 1)
+
+- count total digits in a number
+
 - reverse the number -> 2634
 - print all palindrome numbers from 1 to 1000
     - nitin, madam, mam, racecar
