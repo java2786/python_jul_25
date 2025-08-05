@@ -12,7 +12,6 @@ for n in range(1,100001):
             fact = fact * m 
             m = m-1 
         
-        
         result = result + fact 
         n = n // 10 
 

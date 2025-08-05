@@ -1,12 +1,13 @@
-num = 82 # 64+4 => 68 => 36 + 64 => 100 -> 1
-
-while num>9:
+# num = 82 # 64+4 => 68 => 36 + 64 => 100 -> 1
+num = 5 # 49 - 16 + 81 - 97 - 81 + 49 - 130 = 1 9 - 10 - 1
+while num>0:
     sum = 0
     while num > 0:
         last = num % 10
         sum = sum + (last * last)
         num = num // 10
         
+    # if sum is single digit or two digit
     if sum > 9:
         num = sum 
     else:
