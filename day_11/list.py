@@ -33,6 +33,8 @@ countries = ("India", "USA", "Japan")
 
 
 """ store 5 marks 
+- insert 4 marks
+- insert second marks as 68
 - find average
 - find min
 - find max
