@@ -12,7 +12,4 @@ students[1]['contacts'].append(988678)
 
 students[1]['contacts'][1] = 8787878
 
-
-
-
 print(students)
