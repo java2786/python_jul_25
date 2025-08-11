@@ -1,0 +1,28 @@
+Library Management Console App
+Description: A simple library system where users (students) can borrow and return books.
+Modules: 
+    - Register/Login 
+    - View Available Books 
+    - Borrow Book 
+    - Return Book 
+    - Forgot Password
+Menu: 
+    Guest Menu: 
+        Register, Login, Forgot Password
+    User Menu: 
+        View Books, Borrow Book, Return Book, Reset Password, Logout
+
+
+1. Register
+2. Login 
+3. Exit
+
+1 -> enter your name, enter your email, enter pwd -> data file 
+1. Register
+2. Login 
+3. Exit
+
+2
+enter email, enter Password
+valid user 
+invalid user 
