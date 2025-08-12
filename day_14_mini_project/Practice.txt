@@ -1,0 +1,5 @@
+Create calculator
+    ask first number 
+    ask second number 
+    ask operator - add, sub, mul, div, power
+

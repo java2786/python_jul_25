@@ -47,8 +47,10 @@ def main_menu():
         choice = input("Enter your choice: ")
 
         if(choice == "1"):
+            print("Registration")
             user_registeration() 
         elif choice == "2":
+            # print("Login")
             user = user_login() 
             print(user)
             if user == None:
